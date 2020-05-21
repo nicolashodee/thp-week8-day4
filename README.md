@@ -1,4 +1,4 @@
-# Bienvenue dans ce projet THP : Molécules et organismes
+# Bienvenue dans ce projet THP : Premiers pas avec Javascript
 
 Projet réalisé par Nicolas HODEE
 
